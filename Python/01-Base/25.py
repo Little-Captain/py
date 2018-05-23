@@ -7,7 +7,7 @@
 # 当前目录
 # shell 变量 PYTHONPATH 下的每个目录
 # Python默认路径。UNIX下，默认路径一般为/usr/local/lib/python/
-# 模块搜索路径存储在 sys 模块的 sys.path 变量中。变量里包含当前目录，PYTHONPATH 和 由安装过程决定的默认目录
+# 模块搜索路径存储在 sys 模块的 sys.path 变量中。变量里包含 当前目录，PYTHONPATH 和 由安装过程决定的默认目录
 
 import math
 from math import sin
