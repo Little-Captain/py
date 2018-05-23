@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2018-04-09T01:23:34Z</date>
+	<key>Application Version</key><string>12.7.0.166</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>09A33323414BEB66</string>
+	<key>Tracks</key>
+	<dict>
+		<key>274</key>
+		<dict>
+			<key>Track ID</key><integer>274</integer>
+			<key>Name</key><string>1-steve-jobs-preface</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7152597</integer>
+			<key>Total Time</key><integer>297936</integer>
+			<key>Date Modified</key><date>2017-11-30T18:28:56Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>143</integer>
+			<key>Persistent ID</key><string>EC6417AC56E2FD8D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/1-steve-jobs-preface.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>279</key>
+		<dict>
+			<key>Track ID</key><integer>279</integer>
+			<key>Name</key><string>2-steve-jobs-adoption</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19553302</integer>
+			<key>Total Time</key><integer>814632</integer>
+			<key>Date Modified</key><date>2017-11-30T18:29:21Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1490</integer>
+			<key>Persistent ID</key><string>3BA8B112F8808EB0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/2-steve-jobs-adoption.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>282</key>
+		<dict>
+			<key>Track ID</key><integer>282</integer>
+			<key>Name</key><string>3-silicon-valley</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>27320081</integer>
+			<key>Total Time</key><integer>1138248</integer>
+			<key>Date Modified</key><date>2017-11-30T18:29:30Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1511</integer>
+			<key>Persistent ID</key><string>6B5A3C60C1DDE5EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/3-silicon-valley.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>285</key>
+		<dict>
+			<key>Track ID</key><integer>285</integer>
+			<key>Name</key><string>4-steve-jobs-school-new</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>35666904</integer>
+			<key>Total Time</key><integer>1486032</integer>
+			<key>Date Modified</key><date>2017-11-30T18:29:43Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1472</integer>
+			<key>Persistent ID</key><string>84BD11DBE040E319</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/4-steve-jobs-school-new.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>288</key>
+		<dict>
+			<key>Track ID</key><integer>288</integer>
+			<key>Name</key><string>5-steve-jobs-the-wozniak</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>27052249</integer>
+			<key>Total Time</key><integer>1127088</integer>
+			<key>Date Modified</key><date>2017-11-30T18:29:53Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>935</integer>
+			<key>Persistent ID</key><string>061D750D7600C675</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/5-steve-jobs-the-wozniak.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>291</key>
+		<dict>
+			<key>Track ID</key><integer>291</integer>
+			<key>Name</key><string>6-the-blue-box</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15926223</integer>
+			<key>Total Time</key><integer>663504</integer>
+			<key>Date Modified</key><date>2017-11-30T18:29:59Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1054</integer>
+			<key>Persistent ID</key><string>9F8FB8FB1D1B0E19</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/6-the-blue-box.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>294</key>
+		<dict>
+			<key>Track ID</key><integer>294</integer>
+			<key>Name</key><string>7-the-reed-college</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>42496531</integer>
+			<key>Total Time</key><integer>1770600</integer>
+			<key>Date Modified</key><date>2017-11-30T18:30:15Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1064</integer>
+			<key>Persistent ID</key><string>62AB93CC7C404F34</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/7-the-reed-college.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>297</key>
+		<dict>
+			<key>Track ID</key><integer>297</integer>
+			<key>Name</key><string>8-Atari-and-India</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>25217106</integer>
+			<key>Total Time</key><integer>1050624</integer>
+			<key>Date Modified</key><date>2017-11-30T18:30:23Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1124</integer>
+			<key>Persistent ID</key><string>6D775BB871EF083F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/8-Atari-and-India.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>300</key>
+		<dict>
+			<key>Track ID</key><integer>300</integer>
+			<key>Name</key><string>9-steve-jobs-search-and-breakout</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>28109217</integer>
+			<key>Total Time</key><integer>1171128</integer>
+			<key>Date Modified</key><date>2017-11-30T18:30:33Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>431</integer>
+			<key>Persistent ID</key><string>AC9EC43EFF16D11C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/9-steve-jobs-search-and-breakout.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>303</key>
+		<dict>
+			<key>Track ID</key><integer>303</integer>
+			<key>Name</key><string>10-steve-jobs-homebrew-club</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>27360412</integer>
+			<key>Total Time</key><integer>1139928</integer>
+			<key>Date Modified</key><date>2017-11-30T18:30:43Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>465</integer>
+			<key>Persistent ID</key><string>9E77CF6537343C1B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/10-steve-jobs-homebrew-club.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>306</key>
+		<dict>
+			<key>Track ID</key><integer>306</integer>
+			<key>Name</key><string>11-apple-and-garage</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>33664148</integer>
+			<key>Total Time</key><integer>1402584</integer>
+			<key>Date Modified</key><date>2017-11-30T18:30:56Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>841</integer>
+			<key>Persistent ID</key><string>85F271049E732E29</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/11-apple-and-garage.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>309</key>
+		<dict>
+			<key>Track ID</key><integer>309</integer>
+			<key>Name</key><string>12-the-all-in-one-computer</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18012507</integer>
+			<key>Total Time</key><integer>750432</integer>
+			<key>Date Modified</key><date>2017-11-30T18:31:03Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1249</integer>
+			<key>Persistent ID</key><string>D4F9B81680D4FE0C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/12-the-all-in-one-computer.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>312</key>
+		<dict>
+			<key>Track ID</key><integer>312</integer>
+			<key>Name</key><string>13-steve-and-markkula</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>23439574</integer>
+			<key>Total Time</key><integer>976560</integer>
+			<key>Date Modified</key><date>2017-11-30T18:31:14Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1266</integer>
+			<key>Persistent ID</key><string>73A4B1EC24B86774</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/13-steve-and-markkula.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>315</key>
+		<dict>
+			<key>Track ID</key><integer>315</integer>
+			<key>Name</key><string>14-the-first-apple-show</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20890776</integer>
+			<key>Total Time</key><integer>870360</integer>
+			<key>Date Modified</key><date>2017-11-30T18:31:23Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>904</integer>
+			<key>Persistent ID</key><string>1EDD395966D52D5D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/14-the-first-apple-show.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>318</key>
+		<dict>
+			<key>Track ID</key><integer>318</integer>
+			<key>Name</key><string>15-chrisann-and-lisa</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>25418709</integer>
+			<key>Total Time</key><integer>1059024</integer>
+			<key>Date Modified</key><date>2017-11-30T18:31:33Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>477</integer>
+			<key>Persistent ID</key><string>C86F60D350CD7B0A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/15-chrisann-and-lisa.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>321</key>
+		<dict>
+			<key>Track ID</key><integer>321</integer>
+			<key>Name</key><string>16-the-xerox-and-parc</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>24665878</integer>
+			<key>Total Time</key><integer>1027656</integer>
+			<key>Date Modified</key><date>2017-11-30T18:31:43Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>351</integer>
+			<key>Persistent ID</key><string>8DE4D37A93C5151F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/16-the-xerox-and-parc.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>324</key>
+		<dict>
+			<key>Track ID</key><integer>324</integer>
+			<key>Name</key><string>17-the-inspiration</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16127827</integer>
+			<key>Total Time</key><integer>671904</integer>
+			<key>Date Modified</key><date>2017-11-30T18:31:52Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>428</integer>
+			<key>Persistent ID</key><string>73BF5336E3F83386</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/17-the-inspiration.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>327</key>
+		<dict>
+			<key>Track ID</key><integer>327</integer>
+			<key>Name</key><string>18-the-famous-and-profit</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>23014489</integer>
+			<key>Total Time</key><integer>958848</integer>
+			<key>Date Modified</key><date>2017-11-30T18:32:01Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>348</integer>
+			<key>Persistent ID</key><string>67B213E75033AECB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/18-the-famous-and-profit.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>330</key>
+		<dict>
+			<key>Track ID</key><integer>330</integer>
+			<key>Name</key><string>19-the-mac-born</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>33271312</integer>
+			<key>Total Time</key><integer>1386216</integer>
+			<key>Date Modified</key><date>2017-11-30T18:32:15Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>778</integer>
+			<key>Persistent ID</key><string>5269AE7815CD96F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/19-the-mac-born.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>333</key>
+		<dict>
+			<key>Track ID</key><integer>333</integer>
+			<key>Name</key><string>20-the-reality-distortion-ability</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>33694114</integer>
+			<key>Total Time</key><integer>1403832</integer>
+			<key>Date Modified</key><date>2017-11-30T18:32:27Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>843</integer>
+			<key>Persistent ID</key><string>A2F34374BE916E10</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/20-the-reality-distortion-ability.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>336</key>
+		<dict>
+			<key>Track ID</key><integer>336</integer>
+			<key>Name</key><string>21-the-beauty-of-bauhaus</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>25221145</integer>
+			<key>Total Time</key><integer>1050792</integer>
+			<key>Date Modified</key><date>2017-11-30T18:32:37Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>328</integer>
+			<key>Persistent ID</key><string>F8026F0A71D0DA09</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/21-the-beauty-of-bauhaus.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>339</key>
+		<dict>
+			<key>Track ID</key><integer>339</integer>
+			<key>Name</key><string>22-like-porche</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19461711</integer>
+			<key>Total Time</key><integer>810816</integer>
+			<key>Date Modified</key><date>2017-11-30T18:32:45Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>777</integer>
+			<key>Persistent ID</key><string>7FDF7BEA20C73E55</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/22-like-porche.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>342</key>
+		<dict>
+			<key>Track ID</key><integer>342</integer>
+			<key>Name</key><string>23-competition-and-control</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18404187</integer>
+			<key>Total Time</key><integer>766752</integer>
+			<key>Date Modified</key><date>2017-11-30T18:32:52Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>702</integer>
+			<key>Persistent ID</key><string>289C3842BCD65A2F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/23-competition-and-control.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>345</key>
+		<dict>
+			<key>Track ID</key><integer>345</integer>
+			<key>Name</key><string>24-let-us-be-pirates</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>37670805</integer>
+			<key>Total Time</key><integer>1569528</integer>
+			<key>Date Modified</key><date>2017-11-30T18:33:05Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1490</integer>
+			<key>Persistent ID</key><string>7D99A890B6A4AEC1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/24-let-us-be-pirates.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>348</key>
+		<dict>
+			<key>Track ID</key><integer>348</integer>
+			<key>Name</key><string>25-cocoacola-or-change-the-world</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>26933025</integer>
+			<key>Total Time</key><integer>1122120</integer>
+			<key>Date Modified</key><date>2017-11-30T18:33:15Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>574</integer>
+			<key>Persistent ID</key><string>4C15844D5F454BB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/25-cocoacola-or-change-the-world.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>351</key>
+		<dict>
+			<key>Track ID</key><integer>351</integer>
+			<key>Name</key><string>26-the-honeymoon</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19234193</integer>
+			<key>Total Time</key><integer>801336</integer>
+			<key>Date Modified</key><date>2017-11-30T18:33:23Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>781</integer>
+			<key>Persistent ID</key><string>DD2A3B815BCE3715</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/26-the-honeymoon.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>354</key>
+		<dict>
+			<key>Track ID</key><integer>354</integer>
+			<key>Name</key><string>27-r-the1984</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>24771277</integer>
+			<key>Total Time</key><integer>1032048</integer>
+			<key>Date Modified</key><date>2017-11-30T18:33:32Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>795</integer>
+			<key>Persistent ID</key><string>5E737897C791D881</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/27-r-the1984.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>357</key>
+		<dict>
+			<key>Track ID</key><integer>357</integer>
+			<key>Name</key><string>28-release-1984</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>26266576</integer>
+			<key>Total Time</key><integer>1094352</integer>
+			<key>Date Modified</key><date>2017-11-30T18:33:42Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1759</integer>
+			<key>Persistent ID</key><string>58ECBC4C7CF2D1A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/28-release-1984.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>360</key>
+		<dict>
+			<key>Track ID</key><integer>360</integer>
+			<key>Name</key><string>29-gates-and-jobs</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>24471762</integer>
+			<key>Total Time</key><integer>1019568</integer>
+			<key>Date Modified</key><date>2017-11-30T18:33:50Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1286</integer>
+			<key>Persistent ID</key><string>A5C7BFF6877014BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/29-gates-and-jobs.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>363</key>
+		<dict>
+			<key>Track ID</key><integer>363</integer>
+			<key>Name</key><string>30-the-battle-of-ui</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16412948</integer>
+			<key>Total Time</key><integer>683784</integer>
+			<key>Date Modified</key><date>2017-12-09T15:48:38Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1451</integer>
+			<key>Persistent ID</key><string>633594680B2D13B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/30-the-battle-of-ui.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>366</key>
+		<dict>
+			<key>Track ID</key><integer>366</integer>
+			<key>Name</key><string>31-everything-is-cool</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>27364438</integer>
+			<key>Total Time</key><integer>1140096</integer>
+			<key>Date Modified</key><date>2017-12-09T15:48:48Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1540</integer>
+			<key>Persistent ID</key><string>C1CD2FBF30BF14A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/31-everything-is-cool.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>369</key>
+		<dict>
+			<key>Track ID</key><integer>369</integer>
+			<key>Name</key><string>32-the-thirty</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19712270</integer>
+			<key>Total Time</key><integer>821256</integer>
+			<key>Date Modified</key><date>2017-12-09T15:48:55Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1518</integer>
+			<key>Persistent ID</key><string>CD375F694FBDD78F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/32-the-thirty.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>372</key>
+		<dict>
+			<key>Track ID</key><integer>372</integer>
+			<key>Name</key><string>33-they-are-gone</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19051601</integer>
+			<key>Total Time</key><integer>793728</integer>
+			<key>Date Modified</key><date>2017-12-29T08:46:48Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1506</integer>
+			<key>Persistent ID</key><string>3CFDD6B28CDC3E12</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/33-they-are-gone.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>375</key>
+		<dict>
+			<key>Track ID</key><integer>375</integer>
+			<key>Name</key><string>34-showdown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>22153356</integer>
+			<key>Total Time</key><integer>922968</integer>
+			<key>Date Modified</key><date>2017-12-29T08:46:56Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1559</integer>
+			<key>Persistent ID</key><string>4E573CD4337DB848</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/34-showdown.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>378</key>
+		<dict>
+			<key>Track ID</key><integer>378</integer>
+			<key>Name</key><string>35-change-policies</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>32811667</integer>
+			<key>Total Time</key><integer>1367064</integer>
+			<key>Date Modified</key><date>2017-12-29T08:47:06Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1439</integer>
+			<key>Persistent ID</key><string>72F01B70E411FD96</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/35-change-policies.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>381</key>
+		<dict>
+			<key>Track ID</key><integer>381</integer>
+			<key>Name</key><string>36-like-a-hobo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20023311</integer>
+			<key>Total Time</key><integer>834216</integer>
+			<key>Date Modified</key><date>2017-12-29T08:47:12Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1437</integer>
+			<key>Persistent ID</key><string>C0A44001CC02E400</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/36-like-a-hobo.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>384</key>
+		<dict>
+			<key>Track ID</key><integer>384</integer>
+			<key>Name</key><string>37-give-up-the-boat</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>29835476</integer>
+			<key>Total Time</key><integer>1243056</integer>
+			<key>Date Modified</key><date>2017-12-29T08:47:22Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1421</integer>
+			<key>Persistent ID</key><string>170B0B379F285C9D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/37-give-up-the-boat.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>387</key>
+		<dict>
+			<key>Track ID</key><integer>387</integer>
+			<key>Name</key><string>38-depend-yourself</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>26949715</integer>
+			<key>Total Time</key><integer>1122816</integer>
+			<key>Date Modified</key><date>2017-12-29T08:47:30Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1585</integer>
+			<key>Persistent ID</key><string>76D10FAD07D010FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/38-depend-yourself.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>390</key>
+		<dict>
+			<key>Track ID</key><integer>390</integer>
+			<key>Name</key><string>39-next-computer</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>22280081</integer>
+			<key>Total Time</key><integer>928248</integer>
+			<key>Date Modified</key><date>2017-12-29T08:47:38Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1544</integer>
+			<key>Persistent ID</key><string>4725B18E04C51B10</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/39-next-computer.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>393</key>
+		<dict>
+			<key>Track ID</key><integer>393</integer>
+			<key>Name</key><string>40-gates-and-next</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16385298</integer>
+			<key>Total Time</key><integer>682632</integer>
+			<key>Date Modified</key><date>2017-12-29T08:47:43Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1559</integer>
+			<key>Persistent ID</key><string>41C3BC3EC295F761</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/40-gates-and-next.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>396</key>
+		<dict>
+			<key>Track ID</key><integer>396</integer>
+			<key>Name</key><string>41-the-next-release</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>22297364</integer>
+			<key>Total Time</key><integer>928968</integer>
+			<key>Date Modified</key><date>2017-12-29T08:47:51Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1534</integer>
+			<key>Persistent ID</key><string>D6909E487BB1D546</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/41-the-next-release.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>399</key>
+		<dict>
+			<key>Track ID</key><integer>399</integer>
+			<key>Name</key><string>42-lukas-com-dept</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20076306</integer>
+			<key>Total Time</key><integer>836424</integer>
+			<key>Date Modified</key><date>2018-01-06T05:16:08Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1513</integer>
+			<key>Persistent ID</key><string>BAF48BFB1CC4F2F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/42-lukas-com-dept.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>402</key>
+		<dict>
+			<key>Track ID</key><integer>402</integer>
+			<key>Name</key><string>43-tin-toy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>30267467</integer>
+			<key>Total Time</key><integer>1261056</integer>
+			<key>Date Modified</key><date>2018-01-06T05:16:18Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1522</integer>
+			<key>Persistent ID</key><string>227D2F652EEB5133</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/43-tin-toy.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>405</key>
+		<dict>
+			<key>Track ID</key><integer>405</integer>
+			<key>Name</key><string>44-joan-baez</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>26325901</integer>
+			<key>Total Time</key><integer>1096824</integer>
+			<key>Date Modified</key><date>2018-01-06T05:16:27Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1498</integer>
+			<key>Persistent ID</key><string>C8FFAC113B97D762</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/44-joan-baez.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>408</key>
+		<dict>
+			<key>Track ID</key><integer>408</integer>
+			<key>Name</key><string>45-the-missing-father</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>23894614</integer>
+			<key>Total Time</key><integer>995520</integer>
+			<key>Date Modified</key><date>2018-01-06T05:16:37Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1643</integer>
+			<key>Persistent ID</key><string>F886366A5B1CE7B5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/45-the-missing-father.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>411</key>
+		<dict>
+			<key>Track ID</key><integer>411</integer>
+			<key>Name</key><string>46-the-romantics</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>21820433</integer>
+			<key>Total Time</key><integer>909096</integer>
+			<key>Date Modified</key><date>2018-02-26T13:31:27Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1700</integer>
+			<key>Persistent ID</key><string>CCBE5338372D1D3A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/46-the-romantics.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>414</key>
+		<dict>
+			<key>Track ID</key><integer>414</integer>
+			<key>Name</key><string>47-laurene-powell</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>29899410</integer>
+			<key>Total Time</key><integer>1245720</integer>
+			<key>Date Modified</key><date>2018-02-26T13:31:56Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1729</integer>
+			<key>Persistent ID</key><string>1B16F8EB4E843CDC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/47-laurene-powell.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>417</key>
+		<dict>
+			<key>Track ID</key><integer>417</integer>
+			<key>Name</key><string>48-settle-down-home</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17541332</integer>
+			<key>Total Time</key><integer>730800</integer>
+			<key>Date Modified</key><date>2018-02-26T13:32:15Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1813</integer>
+			<key>Persistent ID</key><string>F293ECAFA13A74DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/48-settle-down-home.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>420</key>
+		<dict>
+			<key>Track ID</key><integer>420</integer>
+			<key>Name</key><string>49-the-children</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>22253008</integer>
+			<key>Total Time</key><integer>927120</integer>
+			<key>Date Modified</key><date>2018-02-26T13:32:37Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1821</integer>
+			<key>Persistent ID</key><string>6060C156553DDF33</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/49-the-children.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>423</key>
+		<dict>
+			<key>Track ID</key><integer>423</integer>
+			<key>Name</key><string>50-the-toy-story</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>22213265</integer>
+			<key>Total Time</key><integer>925464</integer>
+			<key>Date Modified</key><date>2018-02-26T13:33:01Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1720</integer>
+			<key>Persistent ID</key><string>1C0F067610D86F4B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/50-the-toy-story.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>426</key>
+		<dict>
+			<key>Track ID</key><integer>426</integer>
+			<key>Name</key><string>51-fly-to-universe</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17516563</integer>
+			<key>Total Time</key><integer>729768</integer>
+			<key>Date Modified</key><date>2018-02-26T13:33:21Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1607</integer>
+			<key>Persistent ID</key><string>E5F1AD2DFD2392F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/51-fly-to-universe.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>429</key>
+		<dict>
+			<key>Track ID</key><integer>429</integer>
+			<key>Name</key><string>52-advent-again</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19980112</integer>
+			<key>Total Time</key><integer>832416</integer>
+			<key>Date Modified</key><date>2018-02-26T13:33:41Z</date>
+			<key>Date Added</key><date>2018-04-09T01:21:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1765</integer>
+			<key>Persistent ID</key><string>E8249BAF422821DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>Location</key><string>file:///Users/Liu-Mac/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/52-advent-again.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>73</integer>
+			<key>Playlist Persistent ID</key><string>B2F839BFB20C4582</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>274</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>291</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>324</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>426</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>309</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>342</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>372</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>351</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>339</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>279</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>381</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>399</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>375</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>420</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>396</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>312</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>408</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>360</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>321</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>354</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>297</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>336</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>318</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>357</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>348</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>387</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>288</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>282</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>303</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>366</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>300</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>384</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>414</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>378</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>330</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>306</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>333</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>285</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>294</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

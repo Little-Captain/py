@@ -1,0 +1,6 @@
+f = open("aboutbook.txt", "r")
+print("Name of the file:", f.name)
+print("Closed?", f.closed)
+print("Opening mode:", f.mode)
+print("File number descriptor is:", f.fileno())
+f.close()
